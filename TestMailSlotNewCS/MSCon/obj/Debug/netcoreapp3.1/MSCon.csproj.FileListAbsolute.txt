@@ -1,0 +1,16 @@
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\obj\Debug\netcoreapp3.1\MSCon.csprojAssemblyReference.cache
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\obj\Debug\netcoreapp3.1\MSCon.AssemblyInfoInputs.cache
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\obj\Debug\netcoreapp3.1\MSCon.AssemblyInfo.cs
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\obj\Debug\netcoreapp3.1\MSCon.csproj.CoreCompileInputs.cache
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\bin\Debug\netcoreapp3.1\MSCon.exe
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\bin\Debug\netcoreapp3.1\MSCon.deps.json
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\bin\Debug\netcoreapp3.1\MSCon.runtimeconfig.json
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\bin\Debug\netcoreapp3.1\MSCon.runtimeconfig.dev.json
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\bin\Debug\netcoreapp3.1\MSCon.dll
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\bin\Debug\netcoreapp3.1\MSCon.pdb
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\bin\Debug\netcoreapp3.1\MSConnectionCS.dll
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\bin\Debug\netcoreapp3.1\MSConnectionCS.pdb
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\obj\Debug\netcoreapp3.1\MSCon.csproj.CopyComplete
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\obj\Debug\netcoreapp3.1\MSCon.dll
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\obj\Debug\netcoreapp3.1\MSCon.pdb
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSCon\obj\Debug\netcoreapp3.1\MSCon.genruntimeconfig.cache

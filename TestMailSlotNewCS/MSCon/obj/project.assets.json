@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MSConnectionCS/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/MSConnectionCS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MSConnectionCS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MSConnectionCS/1.0.0": {
+      "type": "project",
+      "path": "../MSConnectionCS/MSConnectionCS/MSConnectionCS.csproj",
+      "msbuildProject": "../MSConnectionCS/MSConnectionCS/MSConnectionCS.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MSConnectionCS >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ok21\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\AZ_PROJECT_2019\\TestMailSlotNewCS\\MSCon\\MSCon.csproj",
+      "projectName": "MSCon",
+      "projectPath": "C:\\AZ_PROJECT_2019\\TestMailSlotNewCS\\MSCon\\MSCon.csproj",
+      "packagesPath": "C:\\Users\\ok21\\.nuget\\packages\\",
+      "outputPath": "C:\\AZ_PROJECT_2019\\TestMailSlotNewCS\\MSCon\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ok21\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\AZ_PROJECT_2019\\TestMailSlotNewCS\\MSConnectionCS\\MSConnectionCS\\MSConnectionCS.csproj": {
+              "projectPath": "C:\\AZ_PROJECT_2019\\TestMailSlotNewCS\\MSConnectionCS\\MSConnectionCS\\MSConnectionCS.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x86",
+            "version": "[3.1.2, 3.1.2]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.100-preview.2.20176.6\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

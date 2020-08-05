@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MSCon": {
+      "commandName": "Project",
+      "commandLineArgs": "/wm:client  /msname:myserver /scomp:.  /print:1"
+    }
+  }
+}

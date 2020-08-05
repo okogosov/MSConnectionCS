@@ -1,0 +1,9 @@
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSConnectionCS\MSConnectionCS\obj\Debug\netstandard2.0\MSConnectionCS.AssemblyInfoInputs.cache
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSConnectionCS\MSConnectionCS\obj\Debug\netstandard2.0\MSConnectionCS.AssemblyInfo.cs
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSConnectionCS\MSConnectionCS\obj\Debug\netstandard2.0\MSConnectionCS.csproj.CoreCompileInputs.cache
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSConnectionCS\MSConnectionCS\bin\Debug\netstandard2.0\MSConnectionCS.deps.json
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSConnectionCS\MSConnectionCS\bin\Debug\netstandard2.0\MSConnectionCS.dll
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSConnectionCS\MSConnectionCS\bin\Debug\netstandard2.0\MSConnectionCS.pdb
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSConnectionCS\MSConnectionCS\obj\Debug\netstandard2.0\MSConnectionCS.dll
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSConnectionCS\MSConnectionCS\obj\Debug\netstandard2.0\MSConnectionCS.pdb
+C:\AZ_PROJECT_2019\TestMailSlotNewCS\MSConnectionCS\MSConnectionCS\obj\Debug\netstandard2.0\MSConnectionCS.csprojAssemblyReference.cache
